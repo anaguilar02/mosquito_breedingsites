@@ -9,4 +9,4 @@ Keywords: citizen science, Mosquito Alert, storm drains, breeding sites, Aedes a
 breedingsites_map.html contains the interactive map to visualize the breeding sites identified by Mosquito Alert. It also contains a second map showing the correlation between stagnant water and larvae.
 
 ## Data
-Data was taken from Mosquito Alert public map (https://map.mosquitoalert.com).
+Data was taken from Mosquito Alert public map (https://map.mosquitoalert.com) and is found under the name "breeding_sites.csv".
