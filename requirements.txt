@@ -1,0 +1,6 @@
+# Tested with Python 3.12
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+fonttools>=4.40   # used by breedingsites_map_html.py to embed fonts in the HTML map
+cartopy>=0.22     # optional: continent outlines in the world maps; without it the maps are drawn without them
